@@ -8,3 +8,10 @@ Coca Cola 33cl                ->  2.00€
 Sprite 33cl                   ->  2.00€
 Birra Moretti 30cl            ->  3.00€
 Birra Ichnusa 30cl            ->  4.50€
+--------------PRIMI PIATTI-------------
+Riso venere con zucca         ->  0.50€
+Carbonara vegana              ->  0.50€
+Spaghetti di soia con verdure ->  2.00€
+Risotto ai funghi             ->  2.00€
+Spaghetti al thè verde        ->  2.00€
+---------------------------------------
