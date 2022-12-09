@@ -1,3 +1,10 @@
 Menù ristorante Develhope
 
 Menù Vegano
+----------------BEVANDE----------------
+Acqua Naturale 0.5lt          ->  0.50€
+Acqua Frizzante 0.5lt         ->  0.50€
+Coca Cola 33cl                ->  2.00€
+Sprite 33cl                   ->  2.00€
+Birra Moretti 30cl            ->  3.00€
+Birra Ichnusa 30cl            ->  4.50€
