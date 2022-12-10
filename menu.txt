@@ -14,4 +14,9 @@ Carbonara vegana              ->  0.50€
 Spaghetti di soia con verdure ->  2.00€
 Risotto ai funghi             ->  2.00€
 Spaghetti al thè verde        ->  2.00€
----------------------------------------
+---------------ANTIPASTI---------------
+Hummus alla paprika           ->  3,50€
+Paté di carote e lenticchie   ->  2,00€
+Edamame croccanti al forno    ->  2,70€ 
+Toast di patate dolci         ->  4,00€
+Crocchette di broccoli        ->  3,80€
