@@ -20,3 +20,8 @@ Carbonara vegana              ->  0.50€
 Spaghetti di soia con verdure ->  2.00€
 Risotto ai funghi             ->  2.00€
 Spaghetti al thè verde        ->  2.00€
+--------------DOLCI--------------------
+Torta di mele                 ->  4.50€
+Muffin cioccolato             ->  3.70€
+Crostata alla frutta          ->  4.00€
+Millefoglie                   ->  3.00€
